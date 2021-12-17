@@ -1,0 +1,29 @@
+
+#parallax {
+
+    background-image: url("images/bg.gif"); 
+    
+  
+   
+    height: 500px;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#services{
+    background-color: #eee;
+}
+#services h1{
+    margin-top: 0;
+    color: white;
+}
+.card {
+    border: 1px solid whitesmoke;
+}
+
+.card-tabs ul li a{
+    color: whitesmoke;
+}

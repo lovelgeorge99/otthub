@@ -40,5 +40,12 @@
     margin-left: 25%;
 }
 #services{
-    background-color: #eee;
+    background-color:#eee;
 }
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    
+  }
